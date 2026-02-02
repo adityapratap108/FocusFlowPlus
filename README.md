@@ -1,5 +1,3 @@
-Copy and paste the code block below. I’ve kept it clean and included all the essential sections for a professional GitHub repository.
-
 ```markdown
 # FocusFlow ⏳
 
