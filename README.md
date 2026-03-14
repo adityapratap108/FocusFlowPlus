@@ -1,7 +1,7 @@
-```markdown
-# FocusFlow ⏳
 
-**FocusFlow** is a sleek, minimalist productivity application designed to help users manage their time and tasks effectively using the Pomodoro Technique. Built for focus, FocusFlow provides a distraction-free environment to help you reach your goals.
+# FocusFlow+ ⏳
+
+**FocusFlow+** is a sleek, minimalist productivity application designed to help users manage their time and tasks effectively using the Pomodoro Technique. Built for focus, FocusFlow+ provides a distraction-free environment to help you reach your goals.
 
 [**Explore the Live Demo »**](https://adityapratap108.github.io/FocusFlow/)
 
@@ -80,4 +80,3 @@ Distributed under the MIT License.
 
 **Developed with ❤️ by [Aditya Pratap**](https://www.google.com/search?q=https://github.com/adityapratap108)
 
-```
