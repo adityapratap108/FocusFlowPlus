@@ -52,7 +52,7 @@ canvas { max-width: 100% !important; margin-top: 15px; }
 
 #pomodoro-activity-input {
     margin-left: 30px;
-    width: 100px;
+    width: 50%;
 }
 
 #pomodoro-study-minutes {
@@ -72,6 +72,7 @@ canvas { max-width: 100% !important; margin-top: 15px; }
 #new-subject-input {
     height: 30px;
     margin-left: 20px;
+    width: 80%;
 }
 
 #subject-list-section-header-2 {
@@ -82,3 +83,36 @@ canvas { max-width: 100% !important; margin-top: 15px; }
     margin-left: 20px;
 }
 
+#add-task-button{
+    color: #ffffff;
+    outline: none;
+    background-color: #e94560;
+    height: 32px;
+    width: 35px;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.add-task {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+#new-task-input{
+    height: 32px;
+    width: 80%;
+}
+
+.pomodoro-settings {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+}
+
+#pomodoro-study-minutes{
+    width: 50%;
+}
